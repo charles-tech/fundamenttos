@@ -1,4 +1,4 @@
 fundamentus
 pandas
-matplotlib.pyplot
+matplotlib
 streamlit
