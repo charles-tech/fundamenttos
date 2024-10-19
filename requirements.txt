@@ -1,4 +1,4 @@
 fundamentus
-import pandas
-import matplotlib.pyplot
+pandas
+matplotlib.pyplot
 streamlit
